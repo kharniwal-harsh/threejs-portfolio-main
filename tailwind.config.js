@@ -29,5 +29,4 @@ export default {
     },
   },
   plugins: [],
-  base: '/threejs-portfolio-main'/,
 };
