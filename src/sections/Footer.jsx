@@ -7,7 +7,7 @@ const Footer = () => {
         <p>Privacy Policy</p>
       </div>
 
-{/*       <div className="flex gap-3">
+      <div className="flex gap-3">
   <div className="social-icon" onClick={() => window.open("https://github.com/kharniwal-harsh", "_blank")}>
     <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
   </div>
@@ -17,9 +17,9 @@ const Footer = () => {
         <div className="social-icon" onClick={() => window.open("https://github.com/your-username", "_blank")}>
            <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
-      </div> */}
+      </div>
 
-      <div className="flex gap-3">
+{/*       <div className="flex gap-3">
         <div className="social-icon">
           <img src="public/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
         </div>
@@ -29,7 +29,7 @@ const Footer = () => {
         <div className="social-icon">
           <img src="public/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
-      </div>
+      </div> */}
 
       <p className="text-white-500">© 2024 Harsh Kharniwal. All rights reserved.</p>
     </footer>
