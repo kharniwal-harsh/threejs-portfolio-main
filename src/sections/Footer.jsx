@@ -9,13 +9,13 @@ const Footer = () => {
 
       <div className="flex gap-3">
   <div className="social-icon" onClick={() => window.open("https://github.com/kharniwal-harsh", "_blank")}>
-    <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+    <img src="./assets/github.svg" alt="github" className="w-1/2 h-1/2" />
   </div>
         <div className="social-icon" onClick={() => window.open("https://www.linkedin.com/in/harsh-kharniwal9351/", "_blank")}>
-          <img src="/assets/linkedin.svg" alt="linkedin" className="w-1/2 h-1/2"  />
+          <img src="./assets/linkedin.svg" alt="linkedin" className="w-1/2 h-1/2"  />
         </div>
         <div className="social-icon" onClick={() => window.open("https://github.com/your-username", "_blank")}>
-           <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
+           <img src="./assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
       </div>
 
