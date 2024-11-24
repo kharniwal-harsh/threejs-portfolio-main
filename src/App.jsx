@@ -11,8 +11,8 @@ const App = () => {
   return (
     <main className="max-w-7xl mx-auto relative">
       <Navbar />
-      <Hero />
-{/*       <About /> */}
+{/*       <Hero /> */}
+      <About />
 {/*       <Projects /> */}
       {/* <Clients /> */}
 {/*       <WorkExperience /> */}
