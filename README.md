@@ -14,7 +14,7 @@
   <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial.
+     Build this project step by step with our detailed tutorial, If you want to copy the template.
 <!--      on <a href="" target="_blank"><b>JavaScript Mastery</b></a> YouTube.! -->
     </div>
 </div>
